@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saivarshit56942" target="blank"><img src="https://img.shields.io/twitter/follow/saivarshit56942?logo=twitter&style=for-the-badge" alt="saivarshit56942" /></a> </p>
 
-- 🔭 I’m currently working on [SportSpecs: Unraveling Athletic Prowess With Advanced Transfer Learning For Sports](https://github.com/saivarshith123/SportSpecs-Unraveling-Athletic-Prowess-With-Advanced-Transfer-Learning-For-Sports.git)
+- 🔭 I’m currently working on [CSIR Internship]
 
 - 🌱 I’m currently learning **Machen learning**
 
