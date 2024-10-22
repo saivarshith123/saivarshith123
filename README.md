@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="description" width="1000" height="200">
-<h1 align="center">Hi 👋, I'm Gotam sai varshith</h1>
+<h1 align="center">Hi 👋, I'm Gotam Sai Varshith</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="IMG_20230827_172537_866 (1).jpg">
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/saivarshit56942" target="blank"><img src="https://img.shields.io/twitter/follow/saivarshit56942?logo=twitter&style=for-the-badge" alt="saivarshit56942" /></a> </p>
 
-- 🔭 I’m currently working on [CSIR Internship]
+- 🔭 I’m currently working on **CSIR Internship**
 
 - 🌱 I’m currently learning **Machen learning**
 
-- 👯 I’m looking to collaborate on **CSIR**
+- 👯 I’m looking to collaborate on **Google**
 
 - 👨‍💻 All of my projects are available at [https://saivarshith123.github.io/Portfolio/](https://saivarshith123.github.io/Portfolio/)
 
