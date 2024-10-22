@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machen learning**
 
-- 👯 I’m looking to collaborate on **CSIR internship**
+- 👯 I’m looking to collaborate on **CSIR**
 
 - 👨‍💻 All of my projects are available at [https://saivarshith123.github.io/Portfolio/](https://saivarshith123.github.io/Portfolio/)
 
