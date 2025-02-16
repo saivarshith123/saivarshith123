@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Google**
 
-- 👨‍💻 All of my projects are available at [https://saivarshith123.github.io/Portfolio/](https://saivarshith123.github.io/Portfolio/)
-
 - 💬 Ask me about **Full-stack web development**
 
 - 📫 How to reach me **saisaivarshith1085@gmail.com**
