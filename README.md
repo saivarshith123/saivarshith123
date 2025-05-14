@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **saisaivarshith1085@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n0DHbU_JprHnf5o7c3rTwlBV9Hsuokd7/view](https://drive.google.com/file/d/1n0DHbU_JprHnf5o7c3rTwlBV9Hsuokd7/view)
-
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
