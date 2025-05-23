@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="description" width="1000" height="200">
 <h1 align="center">Hi 👋, I'm Gotam Sai Varshith</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="IMG_20230827_172537_866 (1).jpg">
