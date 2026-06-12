@@ -1,36 +1,311 @@
-<h1 align="center">Hi 👋, I'm Gotam Sai Varshith</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
+<div align="center">
+  
+# Hi 👋, I'm Gotam Sai Varshith
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saivarshith123&label=Profile%20views&color=0e75b6&style=flat" alt="saivarshith123" /> </p>
+### 🚀 Artificial Intelligence Engineer | Machine Learning Developer | Full Stack Developer
 
-<p align="left"> <a href="https://twitter.com/saivarshit56942" target="blank"><img src="https://img.shields.io/twitter/follow/saivarshit56942?logo=twitter&style=for-the-badge" alt="saivarshit56942" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+Intelligent+Solutions+with+AI" />
 
-- 🔭 I’m currently working on **CSIR Internship**
+<br>
 
-- 🌱 I’m currently learning **Machen learning**
+<img src="https://komarev.com/ghpvc/?username=saivarshith123&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
-- 👯 I’m looking to collaborate on **Google**
+<img src="https://img.shields.io/github/followers/saivarshith123?logo=github&style=for-the-badge"/>
 
-- 💬 Ask me about **Full-stack web development**
+<img src="https://img.shields.io/github/stars/saivarshith123?affiliations=OWNER&style=for-the-badge"/>
 
-- 📫 How to reach me **saisaivarshith1085@gmail.com**
+</div>
 
-- ⚡ Fun fact **I think I am Funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saivarshit56942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saivarshit56942" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gotam sai varshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gotam sai varshith" height="30" width="40" /></a>
-<a href="https://kaggle.com/saivarshith12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saivarshith12345" height="30" width="40" /></a>
-<a href="https://instagram.com/__._.varshith._.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__._.varshith._.__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/knot_boat_50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="knot_boat_50" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/varshithsai1085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varshithsai1085" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varshithsai1085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varshithsai1085" height="30" width="40" /></a>
+# 🌟 About Me
+
+🎓 B.Tech Computer Science & Engineering Student at **Vellore Institute of Technology (VIT), Chennai**
+
+🔬 Former **Research Intern at CSIR – National Chemical Laboratory (CSIR-NCL)**
+
+🤖 Former **Artificial Intelligence & Machine Learning Intern at SmartInternz**
+
+💡 Passionate about:
+
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Computer Vision
+- Data Analytics
+- Full Stack Development
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+
+🌱 Currently Exploring:
+
+- Advanced Machine Learning
+- LLM Engineering
+- Agentic AI Systems
+- Vector Databases
+- Enterprise AI Applications
+
+🎯 Mission: Build impactful AI-powered products that solve real-world problems.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:saisaivarshith1085@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gotam-sai-varshith-8a5751276/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/__._.varshith._.__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/saivarshith123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 My Platforms
+
+<div align="center">
+
+<a href="https://saivarshith1085.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://student-academic-dashboard-chi.vercel.app/">
+<img src="https://img.shields.io/badge/🎓_Student_Dashboard-Live_Project-success?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+## 🔬 Research Intern | CSIR – National Chemical Laboratory (CSIR-NCL)
+
+- Contributed to the development of educational technology solutions under the Jigyasa Initiative.
+- Built interactive mathematics learning experiences for school students.
+- Developed adaptive scoring mechanisms and dynamic problem generation systems.
+- Worked extensively with HTML, Tailwind CSS, and JavaScript.
+
+## 🤖 AI & Machine Learning Intern | SmartInternz
+
+- Developed a Computer Vision system using TensorFlow and VGG16.
+- Trained on 15,000+ sports images using transfer learning techniques.
+- Achieved 92% image classification accuracy.
+- Deployed real-time prediction systems using Flask.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Data Analyst AI Agent
+
+AI-powered analytics assistant built using Gemini API and Streamlit.
+
+### Features
+
+- Natural Language Querying
+- Automated Insight Generation
+- Conversational Analytics
+- Dataset Understanding
+- Business Intelligence Support
+
+---
+
+## 🗳 India General Election 2024 Dashboard
+
+Interactive Power BI dashboard analyzing election data across:
+
+- National Level
+- State Level
+- Constituency Level
+- Advanced DAX Calculations
+- Drill-through Reports
+- Dynamic Filtering
+
+---
+
+## 🏏 IPL Performance Analytics Dashboard
+
+Comprehensive Power BI dashboard covering 15 IPL seasons.
+
+### Key Insights
+
+- Team Performance Analysis
+- Player Analytics
+- Orange Cap Analysis
+- Purple Cap Analysis
+- Venue Statistics
+- Toss Impact Analysis
+
+---
+
+## 🎓 Student Academic Dashboard
+
+Modern academic analytics platform for students.
+
+### Features
+
+- GPA Tracking
+- Semester Analytics
+- Subject Performance Monitoring
+- Academic Progress Visualization
+- Interactive Dashboard Experience
+
+🔗 https://student-academic-dashboard-chi.vercel.app/
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frontend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saivarshith123&show_icons=true&locale=en&layout=compact" alt="saivarshith123" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
 
+### Backend Development
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### Artificial Intelligence & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+Machine Learning • Deep Learning • Computer Vision • NLP • Generative AI • Gemini API • ChromaDB • Vector Databases • Vector Search • Prompt Engineering • RAG
+
+### Data Analytics
+
+Power BI • Tableau • SQL Analytics • Data Visualization • Business Intelligence
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saivarshith123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivarshith123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saivarshith123&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saivarshith123&theme=tokyonight&row=2&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saivarshith123&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/saivarshith123/saivarshith123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+✅ Building AI-Powered Applications
+
+✅ Learning Advanced Machine Learning
+
+✅ Exploring Agentic AI Systems
+
+✅ Developing RAG Applications
+
+✅ Creating Full Stack SaaS Products
+
+✅ Open Source Contributions
+
+---
+
+# 🏅 Certifications
+
+- Artificial Intelligence using TensorFlow (Google Developers)
+- Power BI Workshop
+- Python Programming
+- C Programming
+- C++ Programming
+- IIT Bombay Spoken Tutorial Certifications
+
+---
+
+# 📫 Reach Me
+
+📧 Email: **saisaivarshith1085@gmail.com**
+
+🌐 Portfolio: **https://saivarshith1085.vercel.app/**
+
+🎓 Student Dashboard: **https://student-academic-dashboard-chi.vercel.app/**
+
+💼 LinkedIn: **https://www.linkedin.com/in/gotam-sai-varshith-8a5751276/**
+
+📸 Instagram: **https://instagram.com/__._.varshith._.__**
+
+💻 GitHub: **https://github.com/saivarshith123**
+
+---
+
+<div align="center">
+
+# ⭐ Building Intelligent Solutions Through AI, Data & Code
+
+### Thanks for visiting my profile! 🚀
+
+</div>
