@@ -229,16 +229,6 @@ Power BI • Tableau • SQL Analytics • Data Visualization • Business Intel
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saivarshith123&theme=tokyonight&row=2&column=4&margin-w=15"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
