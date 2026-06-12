@@ -249,7 +249,7 @@ Power BI • Tableau • SQL Analytics • Data Visualization • Business Intel
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
