@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/__._.varshith._.__">
+<a href="https://www.instagram.com/sai_varshith_08/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -296,7 +296,7 @@ Power BI • Tableau • SQL Analytics • Data Visualization • Business Intel
 
 💼 LinkedIn: **https://www.linkedin.com/in/gotam-sai-varshith-8a5751276/**
 
-📸 Instagram: **https://instagram.com/__._.varshith._.__**
+📸 Instagram: **https://www.instagram.com/sai_varshith_08/**
 
 💻 GitHub: **https://github.com/saivarshith123**
 
